@@ -25,3 +25,14 @@ Untuk saat ini, saya belajar pada channel youtube `Bro Code` dan pada playlist `
 #### Membuat program sederhana
 
 - Counter Program
+
+#### 09/06/2024
+
+##### Belajar beberapa fundamental javascript
+
+- Math Object
+- Random
+
+#### Membuat program sederhana
+
+- Random number generator
