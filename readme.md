@@ -36,3 +36,24 @@ Untuk saat ini, saya belajar pada channel youtube `Bro Code` dan pada playlist `
 #### Membuat program sederhana
 
 - Random number generator
+
+#### 11/06/2024
+
+##### Belajar beberapa fundamental javascript
+
+- if statement
+- ternary operator
+- switch
+- string methods
+- slicing
+- method chaining
+- logical operator
+- strict equality
+- while loops
+- for loops
+- function
+
+#### Membuat program sederhana
+
+- Checked property
+- Number guessing game
