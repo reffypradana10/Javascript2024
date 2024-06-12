@@ -57,3 +57,9 @@ Untuk saat ini, saya belajar pada channel youtube `Bro Code` dan pada playlist `
 
 - Checked property
 - Number guessing game
+
+#### 12/06/2024
+
+##### Belajar beberapa fundamental javascript
+
+- Variable Scope
