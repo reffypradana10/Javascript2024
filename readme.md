@@ -63,3 +63,9 @@ Untuk saat ini, saya belajar pada channel youtube `Bro Code` dan pada playlist `
 ##### Belajar beberapa fundamental javascript
 
 - Variable Scope
+
+### 13/06/2024
+
+#### Membuat program sederhana
+
+- Membuat program convert suhu
