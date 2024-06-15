@@ -69,3 +69,11 @@ Untuk saat ini, saya belajar pada channel youtube `Bro Code` dan pada playlist `
 #### Membuat program sederhana
 
 - Membuat program convert suhu
+
+### 16/06/2024
+
+#### Belajar beberapa fundamental javascript
+
+- Arrays
+- Spread Operator
+- Rest parameter
